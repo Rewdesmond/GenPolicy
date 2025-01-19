@@ -1,3 +1,3 @@
 # GenPolicy
-Prototype
+Prototype:
 https://utilities-git-staging-vitaelabs.vercel.app/en
